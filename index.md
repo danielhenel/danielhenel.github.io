@@ -15,7 +15,7 @@ I play the trumpet
 ### Project Logo
 
   <p align="center">
-    <a href="https://github.com/AGH-Narzedzia-Informatyczne/meshi"><img src="./images/meshi_logo.jpeg" alt="Meshi logo" width="250"/></a>
+    <a href="https://github.com/AGH-Narzedzia-Informatyczne/meshi"><img src="./images/meshi_logo.jpg" alt="Meshi logo" width="250"/></a>
   </p>
   <p align="center"><a href="http://www.freepik.com">Designed by Freepik</a></p>
 
